@@ -1,5 +1,5 @@
 {
-  "name": "triwin-vendor/facebook/php-business-sdk",
+  "name": "triwinvendor/facebook/php-business-sdk",
   "description": "PHP SDK for Facebook Business",
   "type": "library",
   "keywords": [
@@ -10,7 +10,7 @@
     "instagram",
     "page"
   ],
-  "homepage": "https://github.com/TriwinVendor/php-business-sdk/",
+  "homepage": "https://github.com/TriwinVendor/facebook-php-business-sdk/",
   "require": {
     "guzzlehttp/guzzle": "^6.5 || ^7.0"
   },
