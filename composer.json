@@ -11,9 +11,6 @@
     "page"
   ],
   "homepage": "https://github.com/TriwinVendor/facebook-php-business-sdk/",
-  "require": {
-    "guzzlehttp/guzzle": "^6.5 || ^7.0"
-  },
   "autoload": {
     "psr-4": {
       "FacebookAds\\": "src/FacebookAds/"
